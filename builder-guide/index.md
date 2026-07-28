@@ -444,7 +444,7 @@ Either way, the goal is the same: **strengthening Midnight together.**
 - 💬 [Join our Discord channel](https://discord.gg/Qm9SnQMTBf)
 - 💡 [Check out our forum](https://forum.midnight.network/)
 - [Builder Program]({{ '/builder-program/' | relative_url }})
-- [Events]({{ '/events/' | relative_url }})
+- [Resources And Support]({{ '//resources-and-support/' | relative_url }})
 - [Code of Conduct](https://app.notion.com/p/Code-of-Conduct-31a4057b9f23806583d3c812f387039c?pvs=21)
 
 **Zsófi Major**, Dev Engagement Manager
