@@ -74,21 +74,4 @@ Fellows are active builders in their own right — the program is designed to fi
 - At the showcase, Fellows who know their builders' work give specific rather than general feedback — this is where the loose pairing pays off most visibly
 - Mentoring is framed as Fellows shaping what gets built in the ecosystem, not a formal obligation — Fellows can informally steer their builders toward issues that complement their own work or areas they know well
 
-## Open items to resolve
 
-<div class="card">
-
-- Set the XP floor for month one — proposed at 500 XP, with the right reserved to change it between months (never mid-month)
-- Zsófi to rework the existing doc to match this simpler model and test how end-of-month analytics resolve
-- Decide whether every quest is pulled into the sprint, or only some
-  - Proposal: don't bring over anything worth less than 120 points
-  - Quests currently submittable multiple times should be limited to once a month per person in the sprint
-- Legal to draft a contract, and confirm how they'd prefer builders to agree to it
-- Be thoughtful about the floor, and what it takes to hit it to get paid
-
-</div>
-
-### Framing note for legal & announcements
-
-- Payouts follow existing Zealy point values; values may be adjusted between months, but never mid-month
-- Every public mention frames this as **"a bonus on the points you're already earning"** — never "payment" or "reward for work." One sentence in the announcement should make clear this is a thank-you on top of existing Zealy progress, not a wage. That framing heads off "$58 for a month is insulting"-style complaints before they form, since nobody benchmarks a bonus against an hourly rate.
