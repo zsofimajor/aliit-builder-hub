@@ -9,16 +9,26 @@ _config.yml              site settings
 _layouts/default.html    shared nav + page shell + footer (edit once, applies everywhere)
 assets/css/style.css     all styling
 assets/js/nav.js         mobile nav toggle
-assets/img/              logos + photos used across the site
+assets/img/              logos, photos, and favicon files
 index.md                 Overview page — general intro to the Aliit Fellowship
 builder-guide/index.md   Builder Guide — onboarding, full fellowship path, FAQ (has an in-page "jump to" nav)
 builder-program/index.md Builder Program — the monthly $1,000 pool, external-facing
+events/index.md          Events — meetup/hackathon reimbursement policy
 fellowship/index.html    redirect stub (the old Fellowship page was folded into Overview + Builder Guide)
 ```
 
 Every content page is plain Markdown with a small front-matter block at the top (the `---` fenced section). You only ever edit the Markdown files for content — the nav, footer, and styling live in `_layouts/default.html` and `style.css` and don't need to be touched per page.
 
 Naming has been updated throughout: **Candidate → Builder**, and the contribution lanes are **Building / Knowledge Sharing / Community Leadership**.
+
+**Sidebar recordings:** the Builder Guide page shows a small "Recordings" list in the sidebar (kick-off call, future workshops, etc). To add a new recording, edit the `recordings:` list in the front matter at the top of `builder-guide/index.md` — no HTML/CSS editing needed:
+```yaml
+recordings:
+  - label: "Kick-off call recording"
+    url: "https://..."
+  - label: "New workshop recording"
+    url: "https://..."
+```
 
 One open item: the Builder Guide references a "Phases" CSV (example contributions per lane) that wasn't part of the Notion export used to build this site — there's a note in `builder-guide/index.md` where that table belongs.
 
