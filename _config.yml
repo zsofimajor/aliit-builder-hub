@@ -1,0 +1,16 @@
+title: Aliit Builder Fellowship
+description: Midnight's Aliit Builder Fellowship — program, guide, and fellowship overview.
+baseurl: "" # leave empty for a user/org page (username.github.io), or "/repo-name" for a project page
+url: ""
+
+markdown: kramdown
+theme: null
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md

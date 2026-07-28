@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}{% if page.title %} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="skyfield" aria-hidden="true"></div>
+
+  <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+
+  <div class="shell">
+    <nav class="sidenav" id="sideNav">
+      <div class="brand">
+        <a href="{{ '/' | relative_url }}">
+          <img src="{{ '/assets/img/logo-stack.png' | relative_url }}" alt="Midnight Aliit" class="brand-logo">
+        </a>
+      </div>
+
+      <ul class="navlist">
+        <li>
+          <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' or page.url == '/index.html' %}is-active{% endif %}">
+            <span class="node"></span>
+            <span class="navlabel"><span class="navnum">00</span>Overview</span>
+          </a>
+        </li>
+        <li>
+          <a href="{{ '/fellowship/' | relative_url }}" class="{% if page.url contains 'fellowship' %}is-active{% endif %}">
+            <span class="node"></span>
+            <span class="navlabel"><span class="navnum">01</span>Fellowship</span>
+          </a>
+        </li>
+        <li>
+          <a href="{{ '/builder-guide/' | relative_url }}" class="{% if page.url contains 'builder-guide' %}is-active{% endif %}">
+            <span class="node"></span>
+            <span class="navlabel"><span class="navnum">02</span>Builder Guide</span>
+          </a>
+        </li>
+        <li>
+          <a href="{{ '/builder-program/' | relative_url }}" class="{% if page.url contains 'builder-program' %}is-active{% endif %}">
+            <span class="node"></span>
+            <span class="navlabel"><span class="navnum">03</span>Builder Program</span>
+          </a>
+        </li>
+      </ul>
+
+      <div class="navfoot">
+        <span class="navfoot-label">NETWORK</span>
+        <span class="navfoot-value">Midnight · NIGHT</span>
+      </div>
+    </nav>
+
+    <main class="content">
+      <div class="content-inner">
+        {{ content }}
+      </div>
+      <footer class="pagefoot">
+        <span>Aliit Builder Fellowship</span>
+        <span class="dot">·</span>
+        <span>Built on Midnight</span>
+      </footer>
+    </main>
+  </div>
+
+  <script src="{{ '/assets/js/nav.js' | relative_url }}"></script>
+</body>
+</html>
