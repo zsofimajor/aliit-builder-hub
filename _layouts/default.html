@@ -56,11 +56,11 @@
         </li>
       </ul>
 
-      {% if page.recordings %}
+      {% if site.recordings %}
       <div class="sidenav-recordings">
         <span class="navfoot-label">Recordings</span>
         <ul>
-          {% for r in page.recordings %}
+          {% for r in site.recordings %}
           <li><a href="{{ r.url }}">{{ r.label }}</a></li>
           {% endfor %}
         </ul>

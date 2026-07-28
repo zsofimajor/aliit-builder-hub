@@ -21,7 +21,7 @@ Every content page is plain Markdown with a small front-matter block at the top 
 
 Naming has been updated throughout: **Candidate → Builder**, and the contribution lanes are **Building / Knowledge Sharing / Community Leadership**.
 
-**Sidebar recordings:** the Builder Guide page shows a small "Recordings" list in the sidebar (kick-off call, future workshops, etc). To add a new recording, edit the `recordings:` list in the front matter at the top of `builder-guide/index.md` — no HTML/CSS editing needed:
+**Sidebar recordings:** every page shows a small "Recordings" list in the sidebar (kick-off call, future workshops, etc). To add a new recording, edit the `recordings:` list in `_config.yml` — no HTML/CSS editing needed:
 ```yaml
 recordings:
   - label: "Kick-off call recording"

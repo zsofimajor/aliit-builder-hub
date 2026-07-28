@@ -1,10 +1,5 @@
 ---
 title: Builder Guide
-recordings:
-  - label: "Kick-off call recording"
-    url: "https://drive.google.com/file/d/1Jx1GH9JpEvEFXtco1ektOgr9ER9Vg68_/view?usp=sharing"
-  - label: "Kick-off call slides"
-    url: "https://drive.google.com/file/d/1gh_rHS0LWtYvcgmOdKavkfQQxW0I4aSt/view?usp=sharing"
 ---
 
 <span class="eyebrow">01 · Onboarding & program details</span>
@@ -27,7 +22,7 @@ recordings:
     <a href="#mistakes"><span class="navnum">07</span>Common mistakes</a>
     <a href="#fellowship-path"><span class="navnum">08</span>The full Fellowship path</a>
     <a href="#faq"><span class="navnum">09</span>FAQ</a>
-    <a href="#resources"><span class="navnum">10</span>Resources & support</a>
+    <a href="#final-notes"><span class="navnum">10</span>Final notes</a>
     <a href="#contact"><span class="navnum">11</span>Contact & links</a>
   </div>
 </div>
@@ -438,25 +433,7 @@ Aliit rewards depth, clarity, and consistency.
 <p>Communication is key. Occasional breaks can be accommodated if justified, but ongoing engagement is critical for tier advancement — if you can't contribute every month, your progression to the next level may need to wait.</p>
 </details>
 
-## Resources & support {#resources}
-
-### Dev.to for your technical content
-
-We're partnering with [DEV.to](http://dev.to/) to bring your Midnight-related technical content to a wider audience — articles, tutorials, walkthroughs, and more. If you're open to cross-posting content you've already published elsewhere, reach out to **Zsófi** on Discord (*zsofi_m*) with your username and she'll add you to the list.
-
-### Aliit event calendar
-
-We're launching the [Aliit Event Calendar](https://calendar.google.com/calendar/embed?src=c_ba5534267b5ef001244cf732be887a244dc76db548a2930acd62ea463661de7b%40group.calendar.google.com&ctz=Europe%2FBudapest), a central place to discover all Builder-related events. You'll be invited shortly after joining.
-
-One highlight is the bi-weekly **Aliit Builder Hangout** — program updates, a spotlighted Builder talking about their contributions, and an open discussion anyone can join. Want to be spotlighted? [Apply here](https://forms.gle/R65RetiQSNkYHfhJ6).
-
-<blockquote>Once you become a Builder, you should automatically get calendar access. We don't invite people to hangouts one by one, but you can add events yourself. No access yet? Find Zsófi on Discord: <em>zsofi_m</em>.</blockquote>
-
-### Running your own meetup or event?
-
-Midnight can reimburse eligible expenses for community-led meetups and events — see the [Events]({{ '/events/' | relative_url }}) page for the full policy and how to submit a proposal.
-
-### Final notes
+## Final notes {#final-notes}
 
 The Builder phase is designed to be challenging but fair. It rewards contributors who build thoughtfully, learn quickly, and support other developers. If you're already doing this work, the process should feel natural. If not, the Builder phase will help you develop those habits.
 
