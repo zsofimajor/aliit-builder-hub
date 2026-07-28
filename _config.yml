@@ -1,6 +1,6 @@
 title: Aliit Builder Fellowship
 description: Midnight's Aliit Builder Fellowship — program, guide, and fellowship overview.
-baseurl: "/aliit-builder-hub"
+baseurl: "/aliit-builder-hub" # update this if you name the repo something else, or clear it if this ever becomes a username.github.io root site
 url: ""
 
 markdown: kramdown

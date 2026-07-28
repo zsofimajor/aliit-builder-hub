@@ -2,7 +2,7 @@
 title: Builder Program
 ---
 
-<span class="eyebrow">03 · Monthly Program</span>
+<span class="eyebrow">02 · Monthly Program</span>
 
 # Builder Program
 
@@ -19,11 +19,11 @@ title: Builder Program
   </div>
   <div class="card">
     <div class="stat">500 XP</div>
-    <div class="stat-label">Proposed floor to qualify</div>
+    <div class="stat-label">Floor to qualify</div>
   </div>
 </div>
 
-We are not paying people to learn. We are attaching a modest cash reward to the points they were already earning — a reason to activate rather than lurk.
+This is a bonus on top of the points you're already earning in Zealy — not a wage, and not payment for work. We're not paying people to learn; we're attaching a modest cash reward to points you were already earning, as a reason to activate rather than lurk.
 
 ## How it works
 
@@ -50,7 +50,7 @@ We will likely need to reconcile sprint XP against main profile totals by hand a
 
 ## Logistics
 
-### Office hours
+### Office hours {#office-hours}
 
 - Two sessions per month, run by the Aliit support team and facilitated by a rotating Fellow — open format for builders stuck on scope, approach, or whether their implementation plan makes sense before they get too deep
 - Async Discord channel for questions between sessions, becoming a searchable knowledge base over time
@@ -74,4 +74,14 @@ Fellows are active builders in their own right — the program is designed to fi
 - At the showcase, Fellows who know their builders' work give specific rather than general feedback — this is where the loose pairing pays off most visibly
 - Mentoring is framed as Fellows shaping what gets built in the ecosystem, not a formal obligation — Fellows can informally steer their builders toward issues that complement their own work or areas they know well
 
+## Program rules
 
+- Only quests worth **120 points or more** count toward the monthly sprint
+- Each quest counts **once per person per sprint**, even if it's normally resubmittable
+- The qualifying floor is **500 XP** for this sprint — reaching it is what makes you eligible for a payout share, not a target to just barely hit
+- Payouts follow existing Zealy point values; those values may be adjusted between months, but **never mid-month**
+- We reconcile sprint XP against main profile totals by hand — if something looks off, flag it in the Discord channel and we'll sort it out
+
+## Questions?
+
+Drop by [office hours](#office-hours), ask in the async Discord channel, or reach out to **Zsófi** on Discord (*zsofi_m*).

@@ -32,21 +32,15 @@
           </a>
         </li>
         <li>
-          <a href="{{ '/fellowship/' | relative_url }}" class="{% if page.url contains 'fellowship' %}is-active{% endif %}">
-            <span class="node"></span>
-            <span class="navlabel"><span class="navnum">01</span>Fellowship</span>
-          </a>
-        </li>
-        <li>
           <a href="{{ '/builder-guide/' | relative_url }}" class="{% if page.url contains 'builder-guide' %}is-active{% endif %}">
             <span class="node"></span>
-            <span class="navlabel"><span class="navnum">02</span>Builder Guide</span>
+            <span class="navlabel"><span class="navnum">01</span>Builder Guide</span>
           </a>
         </li>
         <li>
           <a href="{{ '/builder-program/' | relative_url }}" class="{% if page.url contains 'builder-program' %}is-active{% endif %}">
             <span class="node"></span>
-            <span class="navlabel"><span class="navnum">03</span>Builder Program</span>
+            <span class="navlabel"><span class="navnum">02</span>Builder Program</span>
           </a>
         </li>
       </ul>
@@ -61,10 +55,24 @@
       <div class="content-inner">
         {{ content }}
       </div>
-      <footer class="pagefoot">
-        <span>Aliit Builder Fellowship</span>
-        <span class="dot">·</span>
-        <span>Built on Midnight</span>
+      <footer class="sitefoot">
+        <div class="sitefoot-inner">
+          <div class="sitefoot-brand">
+            <span>Aliit Builder Fellowship</span>
+            <span class="dot">·</span>
+            <span>Built on Midnight</span>
+          </div>
+          <nav class="sitefoot-social" aria-label="Follow us">
+            <span class="sitefoot-label">Follow us</span>
+            <a href="https://discord.gg/Qm9SnQMTBf">Discord</a>
+            <a href="https://x.com/MidnightNtwrk">X</a>
+            <a href="https://t.me/Midnight_Network_Official">Telegram</a>
+            <a href="https://www.linkedin.com/showcase/midnight-ntwrk/">LinkedIn</a>
+            <a href="https://www.youtube.com/@midnight.network">YouTube</a>
+            <a href="https://www.instagram.com/midnightnetwork_">Instagram</a>
+            <a href="https://www.tiktok.com/@midnightntwrk">TikTok</a>
+          </nav>
+        </div>
       </footer>
     </main>
   </div>
