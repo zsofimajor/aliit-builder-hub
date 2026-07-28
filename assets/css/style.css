@@ -240,10 +240,12 @@ body {
 }
 .sidenav-recordings a:hover { color: var(--accent); }
 .navfoot-label {
-  font-family: var(--mono);
-  font-size: 10px;
-  letter-spacing: 0.12em;
-  color: var(--text-dim);
+  font-family: var(--display);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
 }
 .navfoot-value {
   font-family: var(--mono);
@@ -642,7 +644,7 @@ details.faq p:last-child { margin-bottom: 0; }
   font-size: 10px;
   letter-spacing: 0.12em;
   text-transform: uppercase;
-  color: var(--text-dim);
+  color: var(--accent);
   margin-right: 4px;
 }
 .sitefoot-social a {
