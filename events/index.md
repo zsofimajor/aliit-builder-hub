@@ -2,9 +2,9 @@
 title: Events
 ---
 
-<span class="eyebrow">03 · Community events</span>
+<span class="eyebrow">03 · Resources And Support</span>
 
-# Events
+# Resources And Support
 
 <p class="lede">To encourage community-led events during the Builder phase, Builders may organize a local Midnight meetup or study jam — with reimbursement available for eligible expenses.</p>
 
