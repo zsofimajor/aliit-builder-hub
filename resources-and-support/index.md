@@ -6,6 +6,19 @@ title: Resources And Support
 
 # Resources And Support
 
+## Resources
+
+### Dev.to for your technical content
+
+We're partnering with [DEV.to](http://dev.to/) to bring your Midnight-related technical content to a wider audience — articles, tutorials, walkthroughs, and more. If you're open to cross-posting content you've already published elsewhere, reach out to **Zsófi** on Discord (*zsofi_m*) with your username and she'll add you to the list.
+
+### Aliit event calendar
+
+We're launching the [Aliit Event Calendar](https://calendar.google.com/calendar/embed?src=c_ba5534267b5ef001244cf732be887a244dc76db548a2930acd62ea463661de7b%40group.calendar.google.com&ctz=Europe%2FBudapest), a central place to discover all Builder-related events. You'll be invited shortly after joining.
+
+One highlight is the bi-weekly **Aliit Builder Hangout** — program updates, a spotlighted Builder talking about their contributions, and an open discussion anyone can join. Want to be spotlighted? [Apply here](https://forms.gle/R65RetiQSNkYHfhJ6).
+
+## Events
 <p class="lede">To encourage community-led events during the Builder phase, Builders may organize a local Midnight meetup or study jam — with reimbursement available for eligible expenses.</p>
 
 <div class="card-grid">
@@ -65,17 +78,7 @@ The Midnight team will review the proposal and confirm whether the event qualifi
   <p>Only events that follow the approved plan and meet the agreed metrics will be eligible for reimbursement.</p>
 </div>
 
-## Resources & support
 
-### Dev.to for your technical content
-
-We're partnering with [DEV.to](http://dev.to/) to bring your Midnight-related technical content to a wider audience — articles, tutorials, walkthroughs, and more. If you're open to cross-posting content you've already published elsewhere, reach out to **Zsófi** on Discord (*zsofi_m*) with your username and she'll add you to the list.
-
-### Aliit event calendar
-
-We're launching the [Aliit Event Calendar](https://calendar.google.com/calendar/embed?src=c_ba5534267b5ef001244cf732be887a244dc76db548a2930acd62ea463661de7b%40group.calendar.google.com&ctz=Europe%2FBudapest), a central place to discover all Builder-related events. You'll be invited shortly after joining.
-
-One highlight is the bi-weekly **Aliit Builder Hangout** — program updates, a spotlighted Builder talking about their contributions, and an open discussion anyone can join. Want to be spotlighted? [Apply here](https://forms.gle/R65RetiQSNkYHfhJ6).
 
 <blockquote>Once you become a Builder, you should automatically get calendar access. We don't invite people to hangouts one by one, but you can add events yourself. No access yet? Find Zsófi on Discord: <em>zsofi_m</em>.</blockquote>
 
