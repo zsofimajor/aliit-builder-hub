@@ -1,6 +1,6 @@
 title: Aliit Builder Fellowship
 description: Midnight's Aliit Builder Fellowship — program, guide, and fellowship overview.
-   baseurl: "/aliit-builder-hub"
+baseurl: "/aliit-builder-hub"
 url: ""
 
 markdown: kramdown
