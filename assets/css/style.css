@@ -358,11 +358,12 @@ body {
 
 /* ---------- feature image ---------- */
 .feature-img {
-  width: 100%;
+  width: 50%;
+  max-width: 480px;
   height: auto;
   border-radius: var(--radius);
   border: 1px solid var(--border);
-  margin: 28px 0 8px;
+  margin: 28px auto 8px;
   display: block;
   transition: border-color 0.2s ease;
 }
@@ -598,4 +599,5 @@ details.faq p:last-child { margin-bottom: 0; }
   .sidenav.is-open { transform: translateX(0); }
   .content-inner { padding: 84px 24px 40px; }
   .content-inner h1 { font-size: 30px; }
+  .feature-img { width: 100%; max-width: none; }
 }
