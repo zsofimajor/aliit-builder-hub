@@ -16,16 +16,16 @@ title: Overview
 
 <div class="card-grid">
   <div class="card">
-    <h3>📖 Builder Guide</h3>
+    <h3>📖 <a href="{{ '/builder-guide/' | relative_url }}">Builder Guide</a></h3>
     <p style="margin-top:8px;">Onboarding steps, how quests are reviewed, the full fellowship path, and FAQ.</p>
   </div>
   <div class="card">
-    <h3>💰 Builder Program</h3>
+    <h3>💰 <a href="{{ '/builder-program/' | relative_url }}">Builder Program</a></h3>
     <p style="margin-top:8px;">A monthly incentive pool layered on top of your regular quests — how XP turns into payout.</p>
   </div>
   <div class="card">
-    <h3>💬 Discord</h3>
-    <p style="margin-top:8px;"><a href="https://discord.gg/Qm9SnQMTBf">Join the community</a> and introduce yourself.</p>
+    <h3>🔗 <a href="{{ '/resources-and-support/' | relative_url }}">Resources and Support</a></h3>
+    <p style="margin-top:8px;">Dev.to partnership, the event calendar, and meetup/hackathon reimbursement.</p>
   </div>
 </div>
 
