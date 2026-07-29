@@ -38,13 +38,13 @@ This is a bonus on top of the points you're already earning in Zealy — not a w
 
 **3. The work itself.** Builders work through the quests already on the Zealy board. We do not curate a separate list. The point values already built into Zealy handle the prioritization for us — a technical PR is worth more than a translation, so the existing weighting carries the program without extra overhead.
 
-**4. Earning and ranking.** All work is done in Zealy as a monthly sprint. Builders accrue XP through the sprint, with a minimum XP threshold required to qualify for any payout. Only points earned within that sprint count here — your broader Zealy profile total (the one that counts toward Fellowship progression) is tracked separately and doesn't carry into this calculation.
+**4. Earning points and ranking.** All work is done in Zealy as a monthly sprint. Builders accrue XP through the sprint, with a minimum XP threshold required to qualify for any payout. Those same points also add permanently to your overall Zealy total — the payout calculation just looks specifically at what you earned within that sprint.
 
 **5. Payout.** At the end of the sprint, we read the leaderboard, calculate each qualifying builder's share of the pool proportional to their XP, and distribute in NIGHT.
 
-<blockquote>Reward formula: <code>(builder's monthly sprint XP ÷ total sprint XP of all eligible builders) × $1,000</code></blockquote>
+We will likely need to reconcile sprint XP against main profile totals by hand at first — that's fine. We keep the record and apply it manually until the tooling catches up. 
 
-We will likely need to reconcile sprint XP against main profile totals by hand at first — that's fine. We keep the record and apply it manually until the tooling catches up.
+Payouts will only be processed once all required legal documentation (to be shared at a later stage) and KYC verification have been completed.
 
 ## Why this approach
 
