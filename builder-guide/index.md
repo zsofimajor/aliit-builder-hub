@@ -35,7 +35,7 @@ title: Builder Guide
 
 <div class="callout">
   <span class="callout-label">💰 Related — Builder Program</span>
-  <p>On top of the regular fellowship path below, there's a monthly incentive pool for active Builders — up to $1,000 split among top contributors each month, on top of the points you're already earning. See the <a href="{{ '/builder-program/' | relative_url }}">Builder Program</a> for how it works.</p>
+  <p>Your quests happen through the monthly Builder Program sprint — declare what you're building, complete quests during that sprint, and the points you earn count toward both that month's $1,000 incentive pool and your progress toward becoming a Fellow. See the <a href="{{ '/builder-program/' | relative_url }}">Builder Program</a> for exactly how a sprint works.</p>
 </div>
 
 ### First week checklist
@@ -66,11 +66,10 @@ The goal is to demonstrate **sustained, thoughtful contribution**.
 
 ## Duration and progression {#duration}
 
-<div class="card-grid">
-  <div class="card">
-    <div class="stat">1500 XP</div>
-    <div class="stat-label">Threshold</div>
-  </div>
+<div class="callout">
+  <span class="callout-label">Important — how your points are used</span>
+  <p>Every quest you complete during a monthly sprint counts <strong>twice</strong>: it goes toward that month's Builder Program incentive pool (if you clear the sprint floor), and it permanently adds to your cumulative Zealy total — the same total that needs to reach <strong>1500 XP</strong> for Fellowship progression.</p>
+  <p>It's the same work, counted two ways — not two separate pools of points. See the <a href="{{ '/builder-program/' | relative_url }}">Builder Program</a> page for how the sprint itself works.</p>
 </div>
 
 <p style="color: var(--text-dim); font-size: 14px;">Cohorts so far have typically reached this over about two months — but that's an observation, not a deadline or a guarantee. There's no clock running against you; progression is based on your contribution, reviewed holistically once you cross the threshold.</p>
@@ -78,9 +77,8 @@ The goal is to demonstrate **sustained, thoughtful contribution**.
 You'll complete quests through the Zealy system and accumulate contribution points toward this threshold. Reaching it signals meaningful engagement with the ecosystem, but the number alone does not determine progression — once it's reached, the Aliit team reviews your candidacy holistically.
 
 <div class="callout">
-  <span class="callout-label">Important — which points count where</span>
-  <p>Your <strong>1500 XP Fellowship threshold</strong> is based on your total Zealy profile points — earned any time, at your own pace.</p>
-  <p>The <strong>Builder Program's</strong> monthly payout is calculated differently: only points earned <strong>inside that month's sprint</strong> count toward it, not your lifetime total. You can be well past 1500 XP overall and still need sprint-specific activity to qualify for that month's payout. See the <a href="{{ '/builder-program/' | relative_url }}">Builder Program</a> page for details.</p>
+  <span class="callout-label">How this connects to Fellowship progression</span>
+  <p>Every quest you complete in the sprint also adds permanently to your cumulative Zealy total — the same total that needs to reach <strong>1500 XP</strong> for Fellowship progression (see the <a href="{{ '/builder-guide/' | relative_url }}">Builder Guide</a>). The 1500 XP figure here specifically describes that month's sprint activity, used to calculate <em>this month's payout</em> — it's a different lens on the same points, not a separate pool.</p>
 </div>
 
 ### How your quests are reviewed
