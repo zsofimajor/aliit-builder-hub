@@ -75,6 +75,8 @@ The goal is to demonstrate **sustained, thoughtful contribution**.
 
 You'll complete quests through the Zealy system and accumulate contribution points toward this threshold. Reaching it signals meaningful engagement with the ecosystem, but the number alone does not determine progression — once it's reached, the Aliit team reviews your candidacy holistically.
 
+Fellow selection happens through a review every two months: our team looks at everyone who's crossed 1500 XP and selects the group moving into the next cohort. There's no fixed date for when the next cohort opens — if you're selected, we'll reach out to you directly. If you're above 1500 XP but don't make the cut that round, nothing changes for you: you stay in the program, keep contributing, and you're automatically back in consideration at the next review.
+
 ### How your quests are reviewed
 
 - **Contribution quality** — real effort, originality, and usefulness to the Midnight ecosystem, rather than superficial or repetitive activity
@@ -390,6 +392,11 @@ Aliit rewards depth, clarity, and consistency.
 <details class="faq">
 <summary>What if I don't hit the 1500 XP threshold?</summary>
 <p>Strong contributions and engagement may allow for a grace period. Evaluation isn't purely numeric. If you don't reach 1500 points within the typical window, you remain in the program as a Builder.</p>
+</details>
+
+<details class="faq">
+<summary>I'm above 1500 XP — what happens next?</summary>
+<p>You're now in consideration for the next Fellow cohort. Our team reviews everyone above the threshold every two months and selects the strongest group; if you're chosen, we reach out to you directly. There's no set cohort launch date, so timing varies — and if you're not selected in a given round, you remain a Builder and stay in consideration for the next one.</p>
 </details>
 
 <details class="faq">
