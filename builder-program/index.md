@@ -19,6 +19,17 @@ title: Builder Program
   </div>
 </div>
 
+<div class="callout">
+  <span class="callout-label">Program Rules</span>
+
+  <ul>
+    <li>Earn <strong>at least 500 sprint XP</strong> during the current sprint to qualify for a payout.</li>
+    <li>Only XP earned <strong>during the current sprint</strong> counts toward that month's reward distribution.</li>
+    <li>Your lifetime Zealy XP continues to accumulate separately and counts toward Fellowship progression.</li>
+    <li>Quest XP values may be adjusted between monthly sprints, but <strong>never during an active sprint</strong>.</li>
+    <li>If you believe your sprint XP has been calculated incorrectly, let us know in Discord and we'll investigate.</li>
+  </ul>
+</div>
 
 <div class="callout">
   <span class="callout-label">Important — Sprint XP vs. Lifetime XP</span>
@@ -30,15 +41,6 @@ title: Builder Program
   </p>
 </div>
 
-<div class="callout">
-  <span class="callout-label">Program Rules</span>
-
-- Earn **at least 500 sprint XP** to qualify for a payout.
-- Only XP earned **during the current sprint** counts.
-- Lifetime Zealy XP continues accumulating separately for Fellowship eligibility.
-- Quest XP values may change **between** sprints, but never during one.
-- Questions about XP? Reach out in Discord and we'll investigate.
-</div>
 
 ## How the Builder Program works
 
