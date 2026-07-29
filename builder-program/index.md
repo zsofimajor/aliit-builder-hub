@@ -30,6 +30,16 @@ title: Builder Program
   </p>
 </div>
 
+<div class="callout">
+  <span class="callout-label">Program Rules</span>
+
+- Earn **at least 500 sprint XP** to qualify for a payout.
+- Only XP earned **during the current sprint** counts.
+- Lifetime Zealy XP continues accumulating separately for Fellowship eligibility.
+- Quest XP values may change **between** sprints, but never during one.
+- Questions about XP? Reach out in Discord and we'll investigate.
+</div>
+
 ## How the Builder Program works
 
 The Builder Program runs in monthly sprints. During each sprint, you complete Zealy quests, earn XP, and qualify for a share of the monthly NIGHT reward pool.
@@ -66,16 +76,6 @@ At the end of the sprint:
 - Rewards are paid in **NIGHT**.
 
 Payouts can only be processed after all required legal documentation and KYC verification have been completed.
-
----
-
-## Program rules
-
-- You must earn **at least 500 XP during the current sprint** to qualify for a payout.
-- Only XP earned during the sprint counts toward that month's reward distribution.
-- Your lifetime Zealy XP continues to accumulate separately and counts towards Fellowship progression.
-- Quest XP values may be adjusted between monthly sprints, but **never during an active sprint**.
-- If you believe your sprint XP has been calculated incorrectly, please let us know in Discord and we'll investigate.
 
 ---
 
