@@ -25,7 +25,7 @@ title: Overview
   </div>
   <div class="card">
     <h3>🔗 <a href="{{ '/resources-and-support/' | relative_url }}">Resources and Support</a></h3>
-    <p style="margin-top:8px;">Dev.to partnership, the event calendar, and meetup/hackathon reimbursement.</p>
+    <p style="margin-top:8px;">Dev.to, the Aliit event calendar, and how to organize events.</p>
   </div>
 </div>
 
