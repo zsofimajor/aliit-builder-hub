@@ -29,7 +29,7 @@ title: Builder Guide
 
 ## Getting started {#getting-started}
 
-<blockquote>Please make sure to read our <a href="https://app.notion.com/p/Code-of-Conduct-31a4057b9f23806583d3c812f387039c?pvs=21">Code of Conduct</a> before you begin.</blockquote>
+<blockquote>Please make sure to read our <a href="https://zsofimajor.github.io/aliit-builder-hub/code-of-conduct/">Code of Conduct</a> before you begin.</blockquote>
 
 <p style="color: var(--text-dim); font-size: 14px;">The kick-off call recording and slides are linked in the sidebar — new workshop and technical session recordings will be added there over time.</p>
 
