@@ -465,6 +465,7 @@ Either way, the goal is the same: **strengthening Midnight together.**
 
 </div>
 
+</div>
 
 
 
