@@ -123,6 +123,6 @@ A structured progression, from your first contribution to long-term ecosystem st
 
 <p style="color: var(--text-dim); font-size: 14px;">Full requirements, benefits, and how each stage is evaluated live in the <a href="{{ '/builder-guide/' | relative_url }}">Builder Guide</a>. Any duration you hear mentioned elsewhere is a rough indication based on past cohorts, never a guarantee — progression depends on the work, not the calendar.</p>
 
-## A note on naming
+## Program Disclaimer
 
-Across this site, **candidates** are now called **builders**. Same people, same fellowship — the new name reflects what the role has always actually been: building, not waiting to be picked.
+The Aliit Fellowship Program may evolve over time as the Midnight ecosystem grows. We reserve the right to update or modify any aspect of the program, including eligibility, contribution requirements, rewards, benefits, policies, timelines, and processes, at any time. We will communicate any significant changes through our official community channels.
