@@ -436,32 +436,46 @@ Either way, the goal is the same: **strengthening Midnight together.**
 
 <div class="card">
 
-### Contact & links {#contact}
+<h3>💬 Community &amp; Program</h3>
 
-- 💬 [Join our Discord channel](https://discord.gg/Qm9SnQMTBf)
-- 💡 [Check out our forum](https://forum.midnight.network/)
-- [Builder Program]({{ '/builder-program/' | relative_url }})
-- [Resources And Support]({{ '//resources-and-support/' | relative_url }})
-- [Code of Conduct](https://app.notion.com/p/Code-of-Conduct-31a4057b9f23806583d3c812f387039c?pvs=21)
-</div>
-
-<div class="card">
-
-### Program contact
-
-- **Zsófi Major**, Dev Engagement Manager
-- Email: zsofi.major@midnight.foundation
-- Discord: zsofi_m
+<ul>
+  <li><a href="https://discord.gg/Qm9SnQMTBf">Join our Discord</a></li>
+  <li><a href="https://forum.midnight.network/">Community Forum</a></li>
+  <li><a href="{{ '/builder-program/' | relative_url }}">Builder Program</a></li>
+  <li><a href="{{ '/resources-and-support/' | relative_url }}">Resources &amp; Support</a></li>
+  <li><a href="{{ '/code-of-conduct/' | relative_url }}">Code of Conduct</a></li>
+</ul>
 
 </div>
 
 <div class="card">
 
-### Midnight Links
+<h3>👤 Program Contact</h3>
 
-- [Midnight Docs](https://docs.midnight.network/)
-- [Midnight on YouTube](https://www.youtube.com/channel/UCy3oZ64F3FOtjZ5sZGQNgkA)
-- [Midnight Academy](https://academy.midnight.network/)
+<p><strong>Zsófi Major</strong><br>
+Developer Engagement Manager</p>
+
+<p>
+<strong>Email</strong><br>
+<a href="mailto:zsofi.major@midnight.foundation">zsofi.major@midnight.foundation</a>
+</p>
+
+<p>
+<strong>Discord</strong><br>
+<code>zsofi_m</code>
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>🚀 Midnight Resources</h3>
+
+<ul>
+  <li><a href="https://docs.midnight.network/">Midnight Documentation</a></li>
+  <li><a href="https://academy.midnight.network/">Midnight Academy</a></li>
+  <li><a href="https://www.youtube.com/@MidnightNetwork">Midnight on YouTube</a></li>
+</ul>
 
 </div>
 
