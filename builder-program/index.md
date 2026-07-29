@@ -31,6 +31,12 @@ title: Builder Program
   </ul>
 </div>
 
+
+
+## How the Builder Program works
+
+The Builder Program runs in monthly sprints. During each sprint, you complete Zealy quests, earn XP, and qualify for a share of the monthly NIGHT reward pool.
+
 <div class="callout">
   <span class="callout-label">Important — Sprint XP vs. Lifetime XP</span>
   <p>
@@ -40,11 +46,6 @@ title: Builder Program
     This is separate from your <strong>lifetime Zealy XP</strong>, which continues to accumulate over time and is used to determine your eligibility for the <a href="{{ '/builder-program/' | relative_url }}">Aliit Fellowship</a>. Reaching 1500 lifetime XP qualifies you to apply for the Fellowship, regardless of how many monthly sprints it took you to get there.
   </p>
 </div>
-
-
-## How the Builder Program works
-
-The Builder Program runs in monthly sprints. During each sprint, you complete Zealy quests, earn XP, and qualify for a share of the monthly NIGHT reward pool.
 
 ### 1. Join the sprint
 
