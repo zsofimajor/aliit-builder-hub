@@ -190,7 +190,7 @@ Aliit rewards depth, clarity, and consistency.
     <h3>Builder</h3>
   </div>
   <p class="tier-card-intro">Platform: Zealy · Threshold: 1500 XP. This phase lives in Zealy, with quests designed to surface how you think, what you build, and how you show up for the community. You're not just completing tasks — you're demonstrating fit. Applications to become a Builder are reviewed on a rolling weekly basis; you can submit a quest at any point.</p>
-  <blockquote>While this is <strong>not an official Fellowship status</strong>, your contribution should show quality, engagement, and technical depth. Selection into the next cohort happens roughly every two months — see the [FAQ](#faq) for how that works.</blockquote>
+  <blockquote>While this is <strong>not an official Fellowship status</strong>, your contribution should show quality, engagement, and technical depth. Selection into the next cohort happens roughly every two months — see the <a href="#faq"><span class="navnum">09</span>FAQ</a> for how that works.</blockquote>
   <div class="tier-meta-grid">
     <div class="tier-field">
       <span class="field-label">Requirements</span>
