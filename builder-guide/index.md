@@ -201,7 +201,7 @@ Aliit rewards depth, clarity, and consistency.
       <span class="field-label">Benefits</span>
       <ul>
         <li>Exclusive Discord access</li>
-        <li>Aliit NFT for those who start earning points in Zealy</li>
+        <li>Aliit NFT for those who are above the 500 XP treshhold in Zealy</li>
       </ul>
     </div>
     <div class="tier-field">
@@ -247,7 +247,7 @@ Aliit rewards depth, clarity, and consistency.
         <li>NFT upgrade + dedicated Discord access</li>
         <li>Community spotlight opportunities</li>
         <li>Fireside speaking slots + coaching</li>
-        <li>Conference/course credits (up to $500)</li>
+        <li>Conference ticket or educational resource or productivity / dev tool stipend  (up to $650)</li>
       </ul>
     </div>
   </div>
