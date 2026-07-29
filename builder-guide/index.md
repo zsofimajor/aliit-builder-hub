@@ -42,7 +42,7 @@ title: Builder Guide
 
 - Join the [Discord channel](https://discord.gg/Qm9SnQMTBf)
 - Introduce yourself briefly
-- Review the available Zealy quests
+- Join <a href="https://zealy.io/cw/midnight-aliit/invite/rAd6oibYOADbj59MZv5HV">the Aliit Zealy board</a>, and review the available Zealy quests
 - Identify 2–3 quests that match your strengths
 - Begin your first contribution, or submit recent past work
 
@@ -68,18 +68,12 @@ The goal is to demonstrate **sustained, thoughtful contribution**.
 
 <div class="callout">
   <span class="callout-label">Important — how your points are used</span>
-  <p>Every quest you complete during a monthly sprint counts <strong>twice</strong>: it goes toward that month's Builder Program incentive pool (if you clear the sprint floor), and it permanently adds to your cumulative Zealy total — the same total that needs to reach <strong>1500 XP</strong> for Fellowship progression.</p>
-  <p>It's the same work, counted two ways — not two separate pools of points. See the <a href="{{ '/builder-program/' | relative_url }}">Builder Program</a> page for how the sprint itself works.</p>
+ <p>Every quest you complete in the sprint also adds permanently to your cumulative Zealy total — the same total that needs to reach <strong>1500 XP</strong> for Fellowship progression (see the <a href="{{ '/builder-guide/' | relative_url }}">Builder Guide</a>). The 1500 XP figure here specifically describes that month's sprint activity, used to calculate <em>this month's payout</em> — it's a different lens on the same points, not a separate pool. See the <a href="{{ '/builder-program/' | relative_url }}">Builder Program</a> page for how the sprint itself works.</p>
 </div>
 
 <p style="color: var(--text-dim); font-size: 14px;">Cohorts so far have typically reached this over about two months — but that's an observation, not a deadline or a guarantee. There's no clock running against you; progression is based on your contribution, reviewed holistically once you cross the threshold.</p>
 
 You'll complete quests through the Zealy system and accumulate contribution points toward this threshold. Reaching it signals meaningful engagement with the ecosystem, but the number alone does not determine progression — once it's reached, the Aliit team reviews your candidacy holistically.
-
-<div class="callout">
-  <span class="callout-label">How this connects to Fellowship progression</span>
-  <p>Every quest you complete in the sprint also adds permanently to your cumulative Zealy total — the same total that needs to reach <strong>1500 XP</strong> for Fellowship progression (see the <a href="{{ '/builder-guide/' | relative_url }}">Builder Guide</a>). The 1500 XP figure here specifically describes that month's sprint activity, used to calculate <em>this month's payout</em> — it's a different lens on the same points, not a separate pool.</p>
-</div>
 
 ### How your quests are reviewed
 
@@ -92,7 +86,7 @@ You'll complete quests through the Zealy system and accumulate contribution poin
 - **Follow-through** — completing what you start, with output that's fully usable or understandable by others
 - **Community conduct** — communicating respectfully and contributing positively to the culture
 
-Consistency and improvement over time matter too. In some cases, a grace period may be granted if progress is strong but the XP threshold hasn't yet been reached.
+Consistency and improvement over time matter too. If you don't earn 1500 points in 2 months, but after reviewing your quests you aren't invited to become a Fellow, no worries. You remain in the program, and can continue contributing and earning points.
 
 ### Submission review guidelines
 
@@ -113,7 +107,7 @@ Aliit recognizes that contributors strengthen ecosystems in different ways. Duri
 <blockquote>Builders must demonstrate activity across <strong>at least two lanes (one of them being Building)</strong> before progressing to Tier 1.</blockquote>
 
 <div class="card">
-Builders who don't demonstrate building skills during their phase — including at least one successful Building quest submission — won't be eligible for Fellowship. Completing a technical quest is a baseline expectation, not a guarantee, since Fellowship decisions are based on a broader evaluation of contributions and impact.
+Builders who don't demonstrate building skills during their phase — including at least one successful Building quest submission — won't be eligible for Fellowship. Completing only technical quests is a baseline expectation, not a guarantee, since Fellowship decisions are based on a broader evaluation of contributions and impact. 
 </div>
 
 <div class="card-grid">
@@ -131,8 +125,6 @@ Builders who don't demonstrate building skills during their phase — including 
   </div>
 </div>
 
-<p style="color: var(--text-dim); font-size: 14px;">The Notion source for this guide links out to a "Phases" example table (sample contributions per lane) as a CSV that wasn't included in the export used to build this page — send it over and it can be added as a real table here.</p>
-
 ## How the Zealy quest system works {#zealy}
 
 The Builder phase uses Zealy as a structured way to surface meaningful contributions. Each quest represents an activity that strengthens the Midnight ecosystem — some focus on technical work, others on education, advocacy, or community leadership. The goal isn't simply to complete tasks, but to demonstrate how you approach building, teaching, and contributing within the ecosystem.
@@ -148,7 +140,7 @@ Every submission should include:
 - A brief description (1–2 sentences) explaining what you did
 - Proof of authorship
 
-Submissions without sufficient context may be rejected or returned for clarification.
+Submissions without sufficient context may be rejected or returned for clarification. Read the quests carefully - we always detail what we're looking for exactly in your submissions.
 
 **Timeframe.** We primarily look at recent contributions, since the technical landscape evolves quickly — code, tools, and educational content can become outdated. That said, we're flexible for initial submissions: you may submit previously completed work as part of your early contributions.
 
@@ -167,6 +159,7 @@ Strong contributions usually demonstrate:
 Examples:
 
 - A pull request improving documentation or SDK functionality
+- A dapp built on Midnight, submitted to our awesome-dapps repo
 - A tutorial explaining a Midnight concept through working code
 - A technical thread breaking down architecture or developer workflows
 - A recorded workshop teaching developers how to build with Midnight
@@ -194,7 +187,7 @@ Aliit rewards depth, clarity, and consistency.
     <span class="stage-label">Stage 1</span>
     <h3>Builder</h3>
   </div>
-  <p class="tier-card-intro">Platform: Zealy · Threshold: 1500 XP. This phase lives in Zealy, with quests designed to surface how you think, what you build, and how you show up for the community. You're not just completing tasks — you're demonstrating fit. Applications to become a Builder are reviewed on a rolling weekly basis; you can apply at any point.</p>
+  <p class="tier-card-intro">Platform: Zealy · Threshold: 1500 XP. This phase lives in Zealy, with quests designed to surface how you think, what you build, and how you show up for the community. You're not just completing tasks — you're demonstrating fit. Applications to become a Builder are reviewed on a rolling weekly basis; you can submit a quest at any point.</p>
   <blockquote>While this is <strong>not an official Fellowship status</strong>, your contribution should show quality, engagement, and technical depth.</blockquote>
   <div class="tier-meta-grid">
     <div class="tier-field">
@@ -437,19 +430,41 @@ The Builder phase is designed to be challenging but fair. It rewards contributor
 
 Either way, the goal is the same: **strengthening Midnight together.**
 
-## Contact & links {#contact}
+## Additional Resources
+
+<div class="card-grid">
+
+<div class="card">
+
+### Contact & links {#contact}
 
 - 💬 [Join our Discord channel](https://discord.gg/Qm9SnQMTBf)
 - 💡 [Check out our forum](https://forum.midnight.network/)
 - [Builder Program]({{ '/builder-program/' | relative_url }})
 - [Resources And Support]({{ '//resources-and-support/' | relative_url }})
 - [Code of Conduct](https://app.notion.com/p/Code-of-Conduct-31a4057b9f23806583d3c812f387039c?pvs=21)
+</div>
 
-**Zsófi Major**, Dev Engagement Manager
+<div class="card">
+
+### Program contact
+
+- **Zsófi Major**, Dev Engagement Manager
 - Email: zsofi.major@midnight.foundation
 - Discord: zsofi_m
 
-**Midnight links**
+</div>
+
+<div class="card">
+
+### Midnight Links
+
 - [Midnight Docs](https://docs.midnight.network/)
 - [Midnight on YouTube](https://www.youtube.com/channel/UCy3oZ64F3FOtjZ5sZGQNgkA)
 - [Midnight Academy](https://academy.midnight.network/)
+
+</div>
+
+
+
+
