@@ -14,9 +14,12 @@ We're partnering with [DEV.to](http://dev.to/) to bring your Midnight-related te
 
 ### Aliit event calendar
 
-We're launching the [Aliit Event Calendar](https://calendar.google.com/calendar/embed?src=c_ba5534267b5ef001244cf732be887a244dc76db548a2930acd62ea463661de7b%40group.calendar.google.com&ctz=Europe%2FBudapest), a central place to discover all Builder-related events. You'll be invited shortly after joining.
+Check out the the [Aliit Event Calendar](https://calendar.google.com/calendar/embed?src=c_ba5534267b5ef001244cf732be887a244dc76db548a2930acd62ea463661de7b%40group.calendar.google.com&ctz=Europe%2FBudapest), a central place to discover all Builder-related events. 
 
 One highlight is the bi-weekly **Aliit Builder Hangout** — program updates, a spotlighted Builder talking about their contributions, and an open discussion anyone can join. Want to be spotlighted? [Apply here](https://forms.gle/R65RetiQSNkYHfhJ6).
+
+<blockquote>Once you become a Builder, you should automatically get calendar access.  No access yet? Find Zsófi on Discord: <em>zsofi_m</em>.</blockquote>
+
 
 ## Events
 <p class="lede">To encourage community-led events during the Builder phase, Builders may organize a local Midnight meetup or study jam — with reimbursement available for eligible expenses.</p>
@@ -28,11 +31,11 @@ One highlight is the bi-weekly **Aliit Builder Hangout** — program updates, a 
   </div>
 </div>
 
-<p>Midnight may reimburse up to $250 USD for eligible meetup expenses once the event has taken place and the post-event report confirms the agreed-upon goals were achieved.</p>
+<p>Midnight _may_ reimburse up to $250 USD for eligible meetup expenses once the event has taken place, the post-event report confirms the agreed-upon goals were achieved, and the organiser has been accepted into the Aliit Fellowship as Fellow and completed their first full monthly reporting cycle.</p>
 
 <p><a href="https://mpc.midnight.network/aliit-candidate-community-event-proposal">Submit a meetup proposal on this link</a>.</p>
 
-<blockquote>Event proposals are only considered from Builders who have at least joined Zealy and begun participating by earning points.</blockquote>
+<blockquote>Event proposals are only considered from Builders who have at least joined Zealy and have already earned at least 500 XPs.</blockquote>
 
 <div class="card">
   <h3>🏆 Hackathons</h3>
@@ -41,13 +44,13 @@ One highlight is the bi-weekly **Aliit Builder Hangout** — program updates, a 
 
 ## Eligibility
 
-To qualify for reimbursement, the meetup must:
+To qualify for reimbursement, the meetup **must**:
 
 - Be approved by the Midnight team in advance
-- Include clear goals and success metrics (e.g. expected attendees, topic focus, or format)
+- Include clear goals and success metrics (e.g. expected attendees, speaker suggestion with proven experience, topic focus, or format)
 - Be successfully executed and documented
 - Clearly feature Midnight and introduce it to the audience
-- Gather names and email addresses from attendees, with their opt-in confirmation for official Midnight comms (e.g. developer newsletter) — this is required of all event organizers
+- Gather names and email addresses from attendees, with their opt-in confirmation for official Midnight comms (e.g. developer newsletter) — this is required of all event organizers, no exceptions.
 
 ## Approval process
 
@@ -78,9 +81,6 @@ The Midnight team will review the proposal and confirm whether the event qualifi
   <p>Only events that follow the approved plan and meet the agreed metrics will be eligible for reimbursement.</p>
 </div>
 
-
-
-<blockquote>Once you become a Builder, you should automatically get calendar access. We don't invite people to hangouts one by one, but you can add events yourself. No access yet? Find Zsófi on Discord: <em>zsofi_m</em>.</blockquote>
 
 ## Questions?
 
