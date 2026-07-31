@@ -20,7 +20,7 @@ title: Overview
     <p style="margin-top:8px;">Onboarding steps, how quests are reviewed, the full fellowship path, and FAQ.</p>
   </div>
   <div class="card">
-    <h3>💰 <a href="{{ '/builder-program/' | relative_url }}">Builder Bonus Program</a></h3>
+    <h3>💰 <a href="{{ '/builder-bonus-program/' | relative_url }}">Builder Bonus Program</a></h3>
     <p style="margin-top:8px;">A monthly incentive pool layered on top of your regular quests — how XP turns into payout.</p>
   </div>
   <div class="card">
