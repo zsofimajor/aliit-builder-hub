@@ -34,8 +34,8 @@ title: Builder Guide
 <p style="color: var(--text-dim); font-size: 14px;">The kick-off call recording and slides are linked in the sidebar — new workshop and technical session recordings will be added there over time.</p>
 
 <div class="callout">
-  <span class="callout-label">💰 Related — Builder Program</span>
-  <p>Your quests happen through the monthly Builder Program sprint — declare what you're building, complete quests during that sprint, and the points you earn count toward both that month's $1,000 incentive pool and your progress toward becoming a Fellow. See the <a href="{{ '/builder-program/' | relative_url }}">Builder Program</a> for exactly how a sprint works.</p>
+  <span class="callout-label">💰 Related — Builder Bonus Program</span>
+  <p>Your quests happen through the monthly Builder Bonus Program sprint — declare what you're building, complete quests during that sprint, and the points you earn count toward both that month's $1,000 incentive pool and your progress toward becoming a Fellow. See the <a href="{{ '/builder-bonus-program/' | relative_url }}">Builder Bonus Program</a> for exactly how a sprint works.</p>
 </div>
 
 ### First week checklist
@@ -68,7 +68,7 @@ The goal is to demonstrate **sustained, thoughtful contribution**.
 
 <div class="callout">
   <span class="callout-label">Important — how your points are used</span>
- <p>Every quest you complete in the sprint also adds permanently to your cumulative Zealy total — the same total that needs to reach <strong>1500 XP</strong> for Fellowship progression (see the <a href="{{ '/builder-guide/' | relative_url }}">Builder Guide</a>). The 1500 XP figure here specifically describes that month's sprint activity, used to calculate <em>this month's payout</em> — it's a different lens on the same points, not a separate pool. See the <a href="{{ '/builder-program/' | relative_url }}">Builder Program</a> page for how the sprint itself works.</p>
+ <p>Every quest you complete in the sprint also adds permanently to your cumulative Zealy total — the same total that needs to reach <strong>1500 XP</strong> for Fellowship progression (see the <a href="{{ '/builder-guide/' | relative_url }}">Builder Guide</a>). The 1500 XP figure here specifically describes that month's sprint activity, used to calculate <em>this month's payout</em> — it's a different lens on the same points, not a separate pool. See the <a href="{{ '/builder-bonus-program/' | relative_url }}">Builder Bonus Program</a> page for how the sprint itself works.</p>
 </div>
 
 <p style="color: var(--text-dim); font-size: 14px;">Cohorts so far have typically reached this over about two months — but that's an observation, not a deadline or a guarantee. There's no clock running against you; progression is based on your contribution, reviewed holistically once you cross the threshold.</p>
@@ -448,7 +448,7 @@ Either way, the goal is the same: **strengthening Midnight together.**
 <ul>
   <li><a href="https://discord.gg/Qm9SnQMTBf">Join our Discord</a></li>
   <li><a href="https://forum.midnight.network/">Community Forum</a></li>
-  <li><a href="{{ '/builder-program/' | relative_url }}">Builder Program</a></li>
+  <li><a href="{{ '/builder-bonus-program/' | relative_url }}">Builder Bonus Program</a></li>
   <li><a href="{{ '/resources-and-support/' | relative_url }}">Resources &amp; Support</a></li>
   <li><a href="{{ '/code-of-conduct/' | relative_url }}">Code of Conduct</a></li>
 </ul>
