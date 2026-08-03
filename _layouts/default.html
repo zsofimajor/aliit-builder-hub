@@ -33,20 +33,26 @@
         <li>
           <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' or page.url == '/index.html' %}is-active{% endif %}">
             <span class="node"></span>
-            <span class="navlabel"><span class="navnum">00</span>Overview</span>
+            <span class="navlabel"><span class="navnum">01</span>Overview</span>
           </a>
         </li>
         <li>
           <a href="{{ '/builder-guide/' | relative_url }}" class="{% if page.url contains 'builder-guide' %}is-active{% endif %}">
             <span class="node"></span>
-            <span class="navlabel"><span class="navnum">01</span>Builder Guide</span>
+            <span class="navlabel"><span class="navnum">02</span>Builder Guide</span>
           </a>
         </li>
         <li>
           <a href="{{ '/builder-bonus-program/' | relative_url }}" class="{% if page.url contains 'builder-bonus-program' %}is-active{% endif %}">
             <span class="node"></span>
-            <span class="navlabel"><span class="navnum">02</span>Builder Bonus Program</span>
+            <span class="navlabel"><span class="navnum">03</span>Builder Bonus Program</span>
           </a>
+          <li>
+          <a href="{{ '/being-a-fellow/' | relative_url }}" class="{% if page.url contains 'being-a-fellow' %}is-active{% endif %}">
+            <span class="node"></span>
+            <span class="navlabel"><span class="navnum">04</span>Being a Fellow</span>
+          </a>
+        </li>
         </li>
         <li>
           <a href="{{ '/resources-and-support/' | relative_url }}" class="{% if page.url contains 'events' %}is-active{% endif %}">
