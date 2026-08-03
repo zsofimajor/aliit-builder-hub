@@ -84,7 +84,8 @@ On top of your regular monthly contribution, confirmed Fellows get access to an 
   <div class="card"><h3>💬 Direct access</h3><p>Direct line to DevRel, engineers, and product leads at MNF.</p></div>
   <div class="card"><h3>🎤 Speaking coaching</h3><p>Support before any public-facing moment.</p></div>
   <div class="card"><h3>✨ Spotlight features</h3><p>Newsletter, Discord, and X shoutouts for your work.</p></div>
-  <div class="card"><h3>🚀 And many more support you may need for your work.</p></div>
+  <div class="card"><h3>🚀 And many more</h3><p>Support you may need for your work.</p></div>
+</div>
 
 <div class="callout">
   <span class="callout-label">Already a Fellow?</span>
