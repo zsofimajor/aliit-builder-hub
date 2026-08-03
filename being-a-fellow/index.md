@@ -73,8 +73,7 @@ Advancement is based on consistency, impact, and contribution quality — not po
 On top of your regular monthly contribution, confirmed Fellows get access to an opt-in monthly bounty board — a small, curated set of rewarded tasks tied to real gaps the Midnight ecosystem needs filled.
 
 <div class="card-grid">
-  <div class="card"><h3>🛠️ Builder / Dev</h3></div>
-  <div class="card"><h3>✍️ Content</h3></div>
+  <div class="card"><h3>🛠️ Building / Dev</h3></div>
   <div class="card"><h3>🎤 Events</h3></div>
   <div class="card"><h3>🤝 Community</h3></div>
 </div>
