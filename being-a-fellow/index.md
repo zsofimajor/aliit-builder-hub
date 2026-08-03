@@ -87,10 +87,6 @@ On top of your regular monthly contribution, confirmed Fellows get access to an 
   <div class="card"><h3>🚀 And many more</h3><p>Support you may need for your work.</p></div>
 </div>
 
-<div class="callout">
-  <span class="callout-label">Already a Fellow?</span>
-  <p>All the operational detail — report templates, event request process, expense guides — lives in your dedicated Fellow hub, not here.</p>
-</div>
 
 ## Related
 
