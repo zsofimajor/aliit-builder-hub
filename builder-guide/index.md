@@ -449,6 +449,7 @@ Either way, the goal is the same: **strengthening Midnight together.**
   <li><a href="https://discord.gg/Qm9SnQMTBf">Join our Discord</a></li>
   <li><a href="https://forum.midnight.network/">Community Forum</a></li>
   <li><a href="{{ '/builder-bonus-program/' | relative_url }}">Builder Bonus Program</a></li>
+  <li><a href="{{ '/being-a-fellow/' | relative_url }}">Being a Fellow</a></li>
   <li><a href="{{ '/resources-and-support/' | relative_url }}">Resources &amp; Support</a></li>
   <li><a href="{{ '/code-of-conduct/' | relative_url }}">Code of Conduct</a></li>
 </ul>
