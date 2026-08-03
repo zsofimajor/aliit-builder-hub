@@ -27,6 +27,10 @@ title: Overview
     <h3>🔗 <a href="{{ '/resources-and-support/' | relative_url }}">Resources and Support</a></h3>
     <p style="margin-top:8px;">Dev.to, the Aliit event calendar, and how to organize events.</p>
   </div>
+  <div class="card">
+    <h3>🌟 <a href="{{ '/being-a-fellow/' | relative_url }}">Being a Fellow</a></h3>
+    <p style="margin-top:8px;">What changes once you move past the Builder phase, and what's expected of you as a Fellow.</p>
+</div>
 </div>
 
 <img src="{{ '/assets/img/conference-d1-013.jpg' | relative_url }}" alt="Aliit contributors working together at a Midnight conference" class="feature-img">
