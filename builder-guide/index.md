@@ -88,7 +88,7 @@ Fellow selection happens through a review every two months: our team looks at ev
 - **Follow-through** — completing what you start, with output that's fully usable or understandable by others
 - **Community conduct** — communicating respectfully and contributing positively to the culture
 
-Consistency and improvement over time matter too. If you don't earn 1500 points in 2 months, but after reviewing your quests you aren't invited to become a Fellow, no worries. You remain in the program, and can continue contributing and earning points.
+Consistency and improvement over time matter too. If you earn 1500 points in 2 months, but after reviewing your quests you aren't invited to become a Fellow, no worries. You remain in the program, and can continue contributing and earning points.
 
 ### Submission review guidelines
 
