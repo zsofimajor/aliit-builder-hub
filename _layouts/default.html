@@ -14,8 +14,15 @@
   <link rel="icon" type="image/png" sizes="48x48" href="{{ '/assets/img/favicon-48x48.png' | relative_url }}">
   <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/img/apple-touch-icon.png' | relative_url }}">
 </head>
-<body>
+<body class="{% if site.sprint_banner.show %}has-banner{% endif %}">
+  {% if site.sprint_banner.show %}
+  <div class="sprint-banner" id="sprintBanner">
+    <span>{{ site.sprint_banner.text }} <a href="{{ site.sprint_banner.url }}" target="_blank" rel="noopener">{{ site.sprint_banner.link_text }}</a></span>
+    <button class="sprint-banner-close" id="sprintBannerClose" aria-label="Dismiss">&times;</button>
+  </div>
+  {% endif %}
   <div class="skyfield" aria-hidden="true"></div>
+  
 
   <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation" aria-expanded="false">
     <span></span><span></span><span></span>
