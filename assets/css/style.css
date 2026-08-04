@@ -28,8 +28,7 @@
   align-items: center;
   justify-content: center;
   gap: 6px;
-  background: linear-gradient(90deg, rgba(88,101,255,0.18), rgba(88,101,255,0.08));
-  border-bottom: 1px solid rgba(88,101,255,0.3);
+  background: linear-gradient(90deg, rgba(88,101,255,0.10), rgba(10,10,10,0.9));  border-bottom: 1px solid rgba(88,101,255,0.3);
   font-family: var(--mono);
   font-size: 13px;
   color: var(--text);
