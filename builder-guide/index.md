@@ -42,7 +42,7 @@ title: Builder Guide
 
 - Join the [Discord channel](https://discord.gg/Qm9SnQMTBf)
 - Introduce yourself briefly
-- Join <a href="https://zealy.io/cw/midnight-aliit/invite/rAd6oibYOADbj59MZv5HV">the Aliit Zealy board</a>, and review the available Zealy quests
+- Join <a href="https://zealy.io/cw/midnight-aliit/invite/rAd6oibYOADbj59MZv5HV">the Aliit Zealy board</a>, and review the available Zealy quests on [the sprint tab](https://zealy.io/cw/midnight-aliit/questboard/sprints) 
 - Identify 2–3 quests that match your strengths
 - Begin your first contribution, or submit recent past work
 
@@ -132,6 +132,10 @@ Builders who don't demonstrate building skills during their phase — including 
 The Builder phase uses Zealy as a structured way to surface meaningful contributions. Each quest represents an activity that strengthens the Midnight ecosystem — some focus on technical work, others on education, advocacy, or community leadership. The goal isn't simply to complete tasks, but to demonstrate how you approach building, teaching, and contributing within the ecosystem.
 
 <blockquote>If you haven't joined Zealy yet, do it <a href="https://zealy.io/cw/midnight-aliit/invite/rAd6oibYOADbj59MZv5HV">via this link</a>.</blockquote>
+<div class="callout">
+  <span class="callout-label">How the monthly sprint works</span>
+  <p>Once you're in Zealy, quests for the current sprint are visible from your own dashboard — there's no separate board link to bookmark or share, since the active sprint changes each month.</p>
+</div>
 
 ### Submitting to a quest
 
