@@ -29,11 +29,26 @@
   justify-content: center;
   gap: 6px;
   background: var(--panel);
+  border-bottom: 1px solid var(--accent);
+  box-shadow: 0 0 20px rgba(88,101,255,0.35), 0 2px 12px rgba(0,0,0,0.4);
   font-family: var(--mono);
   font-size: 13px;
   color: var(--text);
   padding: 0 50px;
   text-align: center;
+}
+.sprint-banner::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 8px var(--accent), 0 0 16px var(--accent-soft);
+  animation: pulse-dot 2s ease-in-out infinite;
+}
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(0.8); }
 }
 .sprint-banner a {
   color: var(--accent);
