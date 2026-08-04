@@ -15,3 +15,17 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   });
 });
+
+var sprintBanner = document.getElementById('sprintBanner');
+var sprintBannerClose = document.getElementById('sprintBannerClose');
+if (sprintBanner && sprintBannerClose) {
+  if (localStorage.getItem('sprintBannerDismissed') === '1') {
+    sprintBanner.style.display = 'none';
+    document.body.classList.remove('has-banner');
+  }
+  sprintBannerClose.addEventListener('click', function () {
+    sprintBanner.style.display = 'none';
+    document.body.classList.remove('has-banner');
+    localStorage.setItem('sprintBannerDismissed', '1');
+  });
+}
