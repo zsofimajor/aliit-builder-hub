@@ -19,6 +19,43 @@
   --body-font: "Outfit", -apple-system, BlinkMacSystemFont, sans-serif;
   --mono: "IBM Plex Mono", "SFMono-Regular", monospace;
 }
+.sprint-banner {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  background: linear-gradient(90deg, rgba(88,101,255,0.18), rgba(88,101,255,0.08));
+  border-bottom: 1px solid rgba(88,101,255,0.3);
+  font-family: var(--mono);
+  font-size: 13px;
+  color: var(--text);
+  padding: 0 50px;
+  text-align: center;
+}
+.sprint-banner a {
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-color: var(--accent-soft);
+}
+.sprint-banner-close {
+  position: absolute;
+  right: 16px;
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-size: 18px;
+  cursor: pointer;
+  line-height: 1;
+}
+.sprint-banner-close:hover { color: var(--text); }
+
+body.has-banner .sidenav { top: 44px; height: calc(100vh - 44px); }
+body.has-banner .nav-toggle { top: 62px; }
 
 * { box-sizing: border-box; }
 
