@@ -73,7 +73,7 @@ The goal is to demonstrate **sustained, thoughtful contribution**.
 
 <p style="color: var(--text-dim); font-size: 14px;">Cohorts so far have typically reached this over about two months — but that's an observation, not a deadline or a guarantee. There's no clock running against you; progression is based on your contribution, reviewed holistically once you cross the threshold.</p>
 
-You'll complete quests through the Zealy system and accumulate contribution points toward this threshold. Reaching it signals meaningful engagement with the ecosystem, but the number alone does not determine progression — once it's reached, the Aliit team reviews your candidacy holistically.
+You'll complete quests through the Zealy system and accumulate contribution points toward this threshold. Reaching it signals meaningful engagement with the ecosystem, but the number alone does not determine progression — once it's reached, the Aliit team reviews your progress holistically.
 
 Fellow selection happens through a review every two months: our team looks at everyone who's crossed 1500 XP and selects the group moving into the next cohort. There's no fixed date for when the next cohort opens — if you're selected, we'll reach out to you directly. If you're above 1500 XP but don't make the cut that round, nothing changes for you: you stay in the program, keep contributing, and you're automatically back in consideration at the next review.
 
@@ -343,7 +343,7 @@ Aliit rewards depth, clarity, and consistency.
 
 <details class="faq">
 <summary>Can I apply more than once?</summary>
-<p>Yes — if you're rejected during application or candidacy, you're welcome to apply again, ideally showing progress in contributions or learnings.</p>
+<p>Yes — if you're rejected during application, you're welcome to apply again, ideally showing progress in contributions or learnings.</p>
 </details>
 
 <details class="faq">
