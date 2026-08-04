@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Aliit Builder Hub
 ---
 
 <img src="{{ '/assets/img/logo-horizontal.png' | relative_url }}" alt="Midnight Aliit" class="hero-logo">
