@@ -21,3 +21,9 @@ recordings:
     url: "https://drive.google.com/file/d/1Jx1GH9JpEvEFXtco1ektOgr9ER9Vg68_/view?usp=sharing"
   - label: "Kick-off call slides"
     url: "https://drive.google.com/file/d/1gh_rHS0LWtYvcgmOdKavkfQQxW0I4aSt/view?usp=sharing"
+
+sprint_banner:
+  show: true
+  text: "This month's sprint is live —"
+  link_text: "view the board"
+  url: "https://zealy.io/cw/midnight-aliit/questboard/sprints"
