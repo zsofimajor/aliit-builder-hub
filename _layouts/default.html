@@ -69,16 +69,9 @@
         </li>
       </ul>
 
-      {% if site.recordings %}
-      <div class="sidenav-recordings">
-        <span class="navfoot-label">Recordings</span>
-        <ul>
-          {% for r in site.recordings %}
-        <li><a href="{% if r.url contains 'http' %}{{ r.url }}{% else %}{{ r.url | relative_url }}{% endif %}">{{ r.label }}</a></li>
-        {% endfor %}
-        </ul>
-      </div>
-      {% endif %}
+    <div class="sidenav-recordings">
+  <a href="{{ '/recordings/' | relative_url }}" class="navfoot-label" style="text-decoration:none; display:inline-block;">Recordings</a>
+</div>
 
       <div class="navfoot">
           <a class="navfoot-value" href="https://midnight.network">Midnight</a>
