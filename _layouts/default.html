@@ -74,8 +74,8 @@
         <span class="navfoot-label">Recordings</span>
         <ul>
           {% for r in site.recordings %}
-          <li><a href="{{ r.url }}">{{ r.label }}</a></li>
-          {% endfor %}
+        <li><a href="{% if r.url contains 'http' %}{{ r.url }}{% else %}{{ r.url | relative_url }}{% endif %}">{{ r.label }}</a></li>
+        {% endfor %}
         </ul>
       </div>
       {% endif %}
