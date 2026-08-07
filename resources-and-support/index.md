@@ -1,28 +1,41 @@
 ---
-title: Resources And Support
+title: Resources and Support
 ---
 
-<span class="eyebrow">03 · Resources And Support</span>
+<span class="eyebrow">03 · Resources and Support</span>
 
-# Resources And Support
+# Resources and Support
 
-## Resources
+<p class="lede">Everything outside the core program itself — Aliit-specific resources, event/meetup support, and the wider Midnight developer ecosystem.</p>
 
-### Dev.to for your technical content
+## Aliit Resources
 
-We're partnering with [DEV.to](http://dev.to/) to bring your Midnight-related technical content to a wider audience — articles, tutorials, walkthroughs, and more. If you're open to cross-posting content you've already published elsewhere, reach out to **Zsófi** on Discord (*zsofi_m*) with your username and she'll add you to the list.
+<div class="card-grid">
+  <div class="card">
+    <h3>🎥 <a href="{{ '/recordings/' | relative_url }}">Recordings</a></h3>
+    <p style="margin-top:8px;">Kick-off calls, workshops, and technical sessions.</p>
+  </div>
+  <div class="card">
+    <h3>📅 <a href="https://calendar.google.com/calendar/embed?src=c_ba5534267b5ef001244cf732be887a244dc76db548a2930acd62ea463661de7b%40group.calendar.google.com&ctz=Europe%2FBudapest">Event calendar</a></h3>
+    <p style="margin-top:8px;">All Builder-related events in one place, including the bi-weekly Aliit Builder Hangout.</p>
+  </div>
+  <div class="card">
+    <h3>✍️ Dev.to partnership</h3>
+    <p style="margin-top:8px;">Cross-post your technical content for wider reach — reach out to Zsófi on Discord (<em>zsofi_m</em>) with your username.</p>
+  </div>
+  <div class="card">
+    <h3>💬 <a href="https://discord.gg/Qm9SnQMTBf">Aliit Discord</a></h3>
+    <p style="margin-top:8px;">Questions, community, and support between office hours.</p>
+  </div>
+  <div class="card">
+    <h3>🧑‍💻 <a href="#meetup-hackathon-reimbursement">Organizing an event?</a></h3>
+    <p style="margin-top:8px;">Meetup and hackathon reimbursement policy — see below.</p>
+  </div>
+</div>
 
-### Aliit event calendar
+## Meetup & Hackathon Reimbursement {#meetup-hackathon-reimbursement}
 
-Check out the the [Aliit Event Calendar](https://calendar.google.com/calendar/embed?src=c_ba5534267b5ef001244cf732be887a244dc76db548a2930acd62ea463661de7b%40group.calendar.google.com&ctz=Europe%2FBudapest), a central place to discover all Builder-related events. 
-
-One highlight is the bi-weekly **Aliit Builder Hangout** — program updates, a spotlighted Builder talking about their contributions, and an open discussion anyone can join. Want to be spotlighted? [Apply here](https://forms.gle/R65RetiQSNkYHfhJ6).
-
-<blockquote>Once you become a Builder, you should automatically get calendar access.  No access yet? Find Zsófi on Discord: <em>zsofi_m</em>.</blockquote>
-
-
-## Events
-<p class="lede">To encourage community-led events during the Builder phase, Builders may organize a local Midnight meetup or study jam — with reimbursement available for eligible expenses.</p>
+<p class="lede" style="font-size:16px;">To encourage community-led events during the Builder phase, Builders may organize a local Midnight meetup or study jam — with reimbursement available for eligible expenses.</p>
 
 <div class="card-grid">
   <div class="card">
@@ -31,28 +44,28 @@ One highlight is the bi-weekly **Aliit Builder Hangout** — program updates, a 
   </div>
 </div>
 
-<p>Midnight _may_ reimburse up to $250 USD for eligible meetup expenses once the event has taken place, the post-event report confirms the agreed-upon goals were achieved, and the organiser has been accepted into the Aliit Fellowship as Fellow and completed their first full monthly reporting cycle.</p>
+<p>Midnight may reimburse up to $250 USD for eligible meetup expenses once the event has taken place and the post-event report confirms the agreed-upon goals were achieved.</p>
 
 <p><a href="https://mpc.midnight.network/aliit-candidate-community-event-proposal">Submit a meetup proposal on this link</a>.</p>
 
-<blockquote>Event proposals are only considered from Builders who have at least joined Zealy and have already earned at least 500 XPs.</blockquote>
+<blockquote>Event proposals are only considered from Builders who have at least joined Zealy and begun participating by earning points.</blockquote>
 
 <div class="card">
   <h3>🏆 Hackathons</h3>
   <p>We know that hackathons may require additional financial support. Builders can submit a proposal through <a href="https://mpc.midnight.network/aliit-hackathon-intelligence-submission">this form</a>, which the Midnight team will review to determine whether sponsorship or other support may be appropriate.</p>
 </div>
 
-## Eligibility
+### Eligibility
 
-To qualify for reimbursement, the meetup **must**:
+To qualify for reimbursement, the meetup must:
 
 - Be approved by the Midnight team in advance
-- Include clear goals and success metrics (e.g. expected attendees, speaker suggestion with proven experience, topic focus, or format)
+- Include clear goals and success metrics (e.g. expected attendees, topic focus, or format)
 - Be successfully executed and documented
 - Clearly feature Midnight and introduce it to the audience
-- Gather names and email addresses from attendees, with their opt-in confirmation for official Midnight comms (e.g. developer newsletter) — this is required of all event organizers, no exceptions.
+- Gather names and email addresses from attendees, with their opt-in confirmation for official Midnight comms (e.g. developer newsletter) — this is required of all event organizers
 
-## Approval process
+### Approval process
 
 Before organizing the meetup, Builders must submit a proposal [through this form](https://mpc.midnight.network/event-sponsorship-intelligence-submission), which must include key information on the proposed event, such as (but not limited to):
 
@@ -81,6 +94,41 @@ The Midnight team will review the proposal and confirm whether the event qualifi
   <p>Only events that follow the approved plan and meet the agreed metrics will be eligible for reimbursement.</p>
 </div>
 
+## Midnight Developer Resources
+
+<p>Beyond Aliit itself, the wider Midnight developer ecosystem has its own hub, docs, and tooling.</p>
+
+### Getting started
+
+- [Midnight Developer Academy](https://academy.midnight.network/) — curriculum from essential concepts to advanced privacy engineering
+- [Docs: Quick start](https://docs.midnight.network/getting-started/installation)
+- [Docs: Learn](https://docs.midnight.network/learn/what-is-midnight)
+- [Docs: Develop](https://docs.midnight.network/develop/tutorial/building)
+- [Docs: Validate](https://docs.midnight.network/nodes)
+- [Request tNIGHT test tokens](https://faucet.preprod.midnight.network/) — needed to test transactions (requires delegating for DUST generation)
+
+### Community & contribution
+
+- [Midnight Discord](https://discord.com/invite/midnightnetwork) — the network-wide Discord (separate from the Aliit-specific one above)
+- [Developer forum](https://forum.midnight.network/) — for technical questions
+- [Contributor Hub](https://github.com/midnightntwrk/contributor-hub) — open ideas, product research, and content requests
+- [Dev Bounties board](https://github.com/orgs/midnightntwrk/projects/36/views/1?filterQuery=bounty) — open bounty-labeled issues across Midnight repos
+
+### Open-source repos
+
+- [midnight-awesome-dapps](https://github.com/midnightntwrk/midnight-awesome-dapps)
+- [midnight-zk](https://github.com/midnightntwrk/midnight-zk)
+- [midnight-js](https://github.com/midnightntwrk/midnight-js)
+- [midnight-node-docker](https://github.com/midnightntwrk/midnight-node-docker)
+- [midnight-docs](https://github.com/midnightntwrk/midnight-docs)
+- [midnight-indexer](https://github.com/midnightntwrk/midnight-indexer)
+- [Full GitHub org](https://github.com/midnightntwrk)
+
+### Learn more
+
+- [Dev Diaries](https://docs.midnight.network/blog) — the developer journey, in blog form
+- [Hackathons](https://midnight.network/hackathon) — virtual and in-person events, including the MLH partnership
+- [Brand Hub](https://midnight.network/brand-hub) — logos, colors, and visual identity standards
 
 ## Questions?
 
