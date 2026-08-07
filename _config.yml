@@ -17,10 +17,8 @@ exclude:
 
 # Shown in the sidebar on every page. Add new entries here — no HTML/CSS editing needed.
 recordings:
-  - label: "Kick-off call recording"
-    url: "https://drive.google.com/file/d/1Jx1GH9JpEvEFXtco1ektOgr9ER9Vg68_/view?usp=sharing"
-  - label: "Kick-off call slides"
-    url: "https://drive.google.com/file/d/1gh_rHS0LWtYvcgmOdKavkfQQxW0I4aSt/view?usp=sharing"
+  - label: "Recordings"
+    url: "/recordings/"
 
 sprint_banner:
   show: true
